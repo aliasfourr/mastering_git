@@ -1,0 +1,54 @@
+Country_Name,code,code_iso_alpha3,ISO_Numeric
+Afghanistan,AF,AFG,004
+Albania,ALBA,ALB,008
+Algeria,DZ,DZA,012
+Argentina,AR,ARG,032
+Australia,AU,AUS,036
+Austria,AT,AUT,040
+Bahrain,BH,BHR,048
+Bangladesh,BD,BGD,050
+Belgium,BE,BEL,056
+Brazil,BR,BRA,076
+Canada,CA,CAN,124
+China,CN,CHN,156
+Denmark,DK,DNK,208
+Egypt,EG,EGY,818
+Finland,FI,FIN,246
+France,FR,FRA,250
+Germany,DE,DEU,276
+Greece,GR,GRC,300
+India,IN,IND,356
+Indonesia,ID,IDN,360
+Iraq,IQ,IRQ,368
+Ireland,IE,IRL,372
+Italy,IT,ITA,380
+Japan,JP,JPN,392
+Jordan,JO,JOR,400
+Kuwait,KW,KWT,414
+Lebanon,LB,LBN,422
+Libya,LY,LBY,434
+Malaysia,MY,MYS,458
+Mexico,MX,MEX,484
+Morocco,MA,MAR,504
+Netherlands,NL,NLD,528
+Nigeria,NG,NGA,566
+Norway,NO,NOR,578
+Oman,OM,OMN,512
+Pakistan,PK,PAK,586
+Poland,PL,POL,616
+Portugal,PT,PRT,620
+Qatar,QA,QAT,634
+Russia,RU,RUS,643
+Saudi Arabia,SA,SAU,682
+Singapore,SG,SGP,702
+South Africa,ZA,ZAF,710
+South Korea,KR,KOR,410
+Spain,ES,ESP,724
+Sweden,SE,SWE,752
+Switzerland,CH,CHE,756
+Syria,SY,SYR,760
+Turkey,TR,TUR,792
+United Arab Emirates,AE,ARE,784
+United Kingdom,GB,GBR,826
+United States,US,USA,840
+Yemen,YE,YEM,887

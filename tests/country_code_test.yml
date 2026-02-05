@@ -1,0 +1,10 @@
+version: 2
+
+seeds:
+  - name: countries
+    description: "testing if any wrong codes added"
+    columns:
+      - name: country_name
+        tests:
+          - not_null
+          - unique
