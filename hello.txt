@@ -1,6 +1,6 @@
 hello world
 
-this is comming from dev-ahmed
+this is the first branch modification
 
 welcome to git merging conflict
 
